@@ -1,6 +1,7 @@
 /* LargestOfThree.java
 *
-* dH 2/15/23
+  Jahir Juarez
+* 2/26/23
 * Approved solution for Java programming class
 * References:
 *   https://www.w3schools.com/java/java_user_input.asp
